@@ -1,5 +1,5 @@
 {
-    "name": "erusev/parsedown",
+    "name": "simon-barton/parsedown",
     "description": "Parser for Markdown.",
     "keywords": ["markdown", "parser"],
     "homepage": "http://parsedown.org",
@@ -10,7 +10,11 @@
             "name": "Emanuil Rusev",
             "email": "hello@erusev.com",
             "homepage": "http://erusev.com"
+        },
+	{
+            "name": "Simon Barton"
         }
+
     ],
     "autoload": {
         "psr-0": {"Parsedown": ""}
